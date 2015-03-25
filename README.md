@@ -1,1 +1,0 @@
-# rathoregroup.github.io
