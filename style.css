@@ -1,0 +1,32 @@
+html, h1, body{
+	font: 14pt Helvetica-Bold;
+	background-color: #CCE6CC
+}
+
+h1{
+	font-size: 2em;
+	color: blue;
+}
+
+h2 {
+	color: green;
+}
+
+table{
+	background-color: #B2D9B2;
+    padding: 20 300 20 300px;
+}
+
+tr{
+	background-color: white;
+}
+
+td{
+	background: #DDDAAA;
+	padding: 10 20 10 20px;
+}
+
+th{
+	background: lightblue;
+	padding: 10 20 10 20px;
+}
