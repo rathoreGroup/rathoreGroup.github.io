@@ -14,7 +14,7 @@ h2 {
 }
 
 table{
-	border: 2px #38BBE6 solid;
+	border: 1px rgba(178, 217, 178, 0.5) solid;
     border-radius: 10px;
 	background-color: rgba(178, 217, 178, 0.2);
     padding: 20 200 20 200px;
