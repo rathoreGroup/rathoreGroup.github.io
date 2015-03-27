@@ -1,6 +1,7 @@
 html, h1, body{
 	font: 14pt Helvetica-Bold;
-	background-color: #CCE6CC
+	background: url('bg.png');
+	background-color: #CCE6CC;
 }
 
 h1{
@@ -13,14 +14,14 @@ h2 {
 }
 
 table{
-	border: 0px #38BBE6 solid;
+	border: 2px #38BBE6 solid;
     border-radius: 10px;
-	background-color: #B2D9B2;
+	background-color: rgba(178, 217, 178, 0.2);
     padding: 20 300 20 300px;
 }
 
 table:hover {
-	background-color: #A6D3A6;
+	background-color: rgba(178, 217, 178, 0.5);
 }
 
 tr{
