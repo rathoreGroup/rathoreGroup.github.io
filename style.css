@@ -3,7 +3,7 @@ html, body{
 	background: url('bg.png');
 	background-color: #CCE6CC;
 	height: 100%;
-	margin: 100px;
+	margin: 150px;
 	display: table;
 }
 
@@ -39,7 +39,7 @@ table{
 	border: 1px rgba(178, 217, 178, 0.5) solid;
     border-radius: 10px;
 	background-color: rgba(178, 217, 178, 0.2);
-    padding: 20 200 20 200px;
+    padding: 20 20 20 20px;
 }
 
 table:hover {
