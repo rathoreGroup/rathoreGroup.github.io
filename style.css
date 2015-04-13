@@ -1,7 +1,15 @@
-html, h1, body{
+html, body{
 	font: 14pt Helvetica-Bold;
 	background: url('bg.png');
 	background-color: #CCE6CC;
+	height: 100%;
+	margin: auto;
+	display: table;
+}
+
+body{
+	display: table-cell;
+	vertical-align: middle;
 }
 
 h1{
@@ -11,6 +19,20 @@ h1{
 
 h2 {
 	color: green;
+}
+
+li{
+
+	color: green;	
+	font-size: 15pt;	
+	padding: 5 30 5 30px;
+	background: rgba(178, 217, 178, 0.4);
+	display: inline;
+	border-radius: 5px;
+}
+
+li:hover{
+	background-color: rgba(178, 217, 178, 0.8);
 }
 
 table{
