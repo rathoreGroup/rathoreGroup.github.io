@@ -3,7 +3,7 @@ html, body{
 	background: url('bg.png');
 	background-color: #CCE6CC;
 	height: 100%;
-	margin: auto;
+	margin: 100px;
 	display: table;
 }
 
